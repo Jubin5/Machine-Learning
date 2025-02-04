@@ -22,8 +22,7 @@ classify breast cancer tumors as **Malignant** or **Benign** based on the **Brea
    git clone https://github.com/jubin5/breast-cancer-ml.git
    cd breast-cancer-ml
   
-2. Install required libraries:
-3. 
+2. Install required libraries: 
 
 ## 📊 Exploratory Data Analysis (EDA)
 - Checked for missing values and handled them.
@@ -35,9 +34,9 @@ classify breast cancer tumors as **Malignant** or **Benign** based on the **Brea
 - **Performance Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC
 
 ### 🔥 Best Performing Model
-| Model  |           | mean_squared_error |
-|--------|----------|------------|--------|----------|
-| LogisticRegression|         2.63%            |
+| Model  |  mean_squared_error |
+|--------|---------------------|
+| LogisticRegression|  2.63%   |
 
 ## 📌 Key Findings
 - Random Forest outperformed other models with **98.2% accuracy**.
