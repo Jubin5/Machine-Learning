@@ -35,9 +35,9 @@ classify breast cancer tumors as **Malignant** or **Benign** based on the **Brea
 - **Performance Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC
 
 ### 🔥 Best Performing Model
-| Model | Accuracy | Precision | Recall | F1-Score |
+| Model  |           | mean_squared_error |
 |--------|----------|------------|--------|----------|
-| Random Forest | 98.2% | 97.5% | 98.9% | 98.2% |
+| LogisticRegression|         2.63%            |
 
 ## 📌 Key Findings
 - Random Forest outperformed other models with **98.2% accuracy**.
